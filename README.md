@@ -19,9 +19,10 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-square&logo=microsoft-azure&logoColor=white"/>
 </p>
 
-<p align=center>
+
+<!--<p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=noaheesu&theme=dracula"/>
-</p>
+</p>-->
 
 
 
